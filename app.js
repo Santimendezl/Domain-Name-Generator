@@ -1,18 +1,5 @@
-// const pronoun = ["the", "our"];
-// const adj = ["great", "big"];
-// const noun = ["jogger", "racoon"];
-// const ext = ["com", "net", "es", "org"];
+// Domain Name Generator with Domain Hacks
 
-// for (let i = 0; i < pronoun.length; i++) {
-//     for (let j = 0; j < adj.length; j++) {
-//         for (let k = 0; k < noun.length; k++) {
-//             for (let l = 0; l < ext.length; l++) {
-//                 console.log(pronoun[i] + adj[j] + noun[k] + "." + ext[l]);
-
-//             }
-//         }
-//     }
-// }
 const pronoun = ["the", "our", "my", "our"];
 const adj = ["great", "big", "special", "perfect"];
 const noun = ["stones", "cornet", "cyborg", "house"];
